@@ -1,0 +1,1985 @@
+                  undefined8 param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                       undefined8 param_16)
+
+{
+  FUN_09beb120(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+size_t mbsrtowcs(wchar_t *__dst,char **__src,size_t __len,mbstate_t *__ps)
+
+{
+  size_t sVar1;
+  
+  sVar1 = mbsrtowcs(__dst,__src,__len,__ps);
+  return sVar1;
+}
+
+
+
+void thunk_FUN_09be9fb0(void)
+
+{
+  thunk_FUN_09be9fb0();
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+void freelocale(__locale_t __dataset)
+
+{
+  freelocale(__dataset);
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int strcoll_l(char *__s1,char *__s2,__locale_t __l)
+
+{
+  int iVar1;
+  
+  iVar1 = strcoll_l(__s1,__s2,__l);
+  return iVar1;
+}
+
+
+
+void thunk_FUN_09be9fb0(void)
+
+{
+  thunk_FUN_09be9fb0();
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+size_t strxfrm_l(char *__dest,char *__src,size_t __n,__locale_t __l)
+
+{
+  size_t sVar1;
+  
+  sVar1 = strxfrm_l(__dest,__src,__n,__l);
+  return sVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int wcscoll_l(wchar_t *__s1,wchar_t *__s2,__locale_t __loc)
+
+{
+  int iVar1;
+  
+  iVar1 = wcscoll_l(__s1,__s2,__loc);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+size_t wcsxfrm_l(wchar_t *__s1,wchar_t *__s2,size_t __n,__locale_t __loc)
+
+{
+  size_t sVar1;
+  
+  sVar1 = wcsxfrm_l(__s1,__s2,__n,__loc);
+  return sVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int iswlower_l(wint_t __wc,__locale_t __locale)
+
+{
+  int iVar1;
+  
+  iVar1 = iswlower_l(__wc,__locale);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int islower_l(int param_1,__locale_t param_2)
+
+{
+  int iVar1;
+  
+  iVar1 = islower_l(param_1,param_2);
+  return iVar1;
+}
+
+
+
+void thunk_FUN_09bda1e0(undefined8 *param_1,size_t param_2,size_t param_3,FILE *param_4)
+
+{
+  FUN_09bda1e0(param_1,param_2,param_3,param_4);
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int isupper_l(int param_1,__locale_t param_2)
+
+{
+  int iVar1;
+  
+  iVar1 = isupper_l(param_1,param_2);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int toupper_l(int __c,__locale_t __l)
+
+{
+  int iVar1;
+  
+  iVar1 = toupper_l(__c,__l);
+  return iVar1;
+}
+
+
+
+void thunk_FUN_09be9fb0(void)
+
+{
+  thunk_FUN_09be9fb0();
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int tolower_l(int __c,__locale_t __l)
+
+{
+  int iVar1;
+  
+  iVar1 = tolower_l(__c,__l);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int iswspace_l(wint_t __wc,__locale_t __locale)
+
+{
+  int iVar1;
+  
+  iVar1 = iswspace_l(__wc,__locale);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int iswprint_l(wint_t __wc,__locale_t __locale)
+
+{
+  int iVar1;
+  
+  iVar1 = iswprint_l(__wc,__locale);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int iswblank_l(wint_t __wc,__locale_t __locale)
+
+{
+  int iVar1;
+  
+  iVar1 = iswblank_l(__wc,__locale);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int iswcntrl_l(wint_t __wc,__locale_t __locale)
+
+{
+  int iVar1;
+  
+  iVar1 = iswcntrl_l(__wc,__locale);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int iswupper_l(wint_t __wc,__locale_t __locale)
+
+{
+  int iVar1;
+  
+  iVar1 = iswupper_l(__wc,__locale);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int iswalpha_l(wint_t __wc,__locale_t __locale)
+
+{
+  int iVar1;
+  
+  iVar1 = iswalpha_l(__wc,__locale);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int iswdigit_l(wint_t __wc,__locale_t __locale)
+
+{
+  int iVar1;
+  
+  iVar1 = iswdigit_l(__wc,__locale);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int iswpunct_l(wint_t __wc,__locale_t __locale)
+
+{
+  int iVar1;
+  
+  iVar1 = iswpunct_l(__wc,__locale);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int iswxdigit_l(wint_t __wc,__locale_t __locale)
+
+{
+  int iVar1;
+  
+  iVar1 = iswxdigit_l(__wc,__locale);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+wint_t towupper_l(wint_t __wc,__locale_t __locale)
+
+{
+  wint_t wVar1;
+  
+  wVar1 = towupper_l(__wc,__locale);
+  return wVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+wint_t towlower_l(wint_t __wc,__locale_t __locale)
+
+{
+  wint_t wVar1;
+  
+  wVar1 = towlower_l(__wc,__locale);
+  return wVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+wint_t btowc(int __c)
+
+{
+  wint_t wVar1;
+  
+  wVar1 = btowc(__c);
+  return wVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int wctob(wint_t __c)
+
+{
+  int iVar1;
+  
+  iVar1 = wctob(__c);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+size_t wcsnrtombs(char *__dst,wchar_t **__src,size_t __nwc,size_t __len,mbstate_t *__ps)
+
+{
+  size_t sVar1;
+  
+  sVar1 = wcsnrtombs(__dst,__src,__nwc,__len,__ps);
+  return sVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+size_t wcrtomb(char *__s,wchar_t __wc,mbstate_t *__ps)
+
+{
+  size_t sVar1;
+  
+  sVar1 = wcrtomb(__s,__wc,__ps);
+  return sVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+size_t mbsnrtowcs(wchar_t *__dst,char **__src,size_t __nmc,size_t __len,mbstate_t *__ps)
+
+{
+  size_t sVar1;
+  
+  sVar1 = mbsnrtowcs(__dst,__src,__nmc,__len,__ps);
+  return sVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+size_t mbrtowc(wchar_t *__pwc,char *__s,size_t __n,mbstate_t *__p)
+
+{
+  size_t sVar1;
+  
+  sVar1 = mbrtowc(__pwc,__s,__n,__p);
+  return sVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int mbtowc(wchar_t *__pwc,char *__s,size_t __n)
+
+{
+  int iVar1;
+  
+  iVar1 = mbtowc(__pwc,__s,__n);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+size_t __ctype_get_mb_cur_max(void)
+
+{
+  size_t sVar1;
+  
+  sVar1 = __ctype_get_mb_cur_max();
+  return sVar1;
+}
+
+
+
+void thunk_FUN_09bdf7d0(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,ulong *param_9,char *param_10,mbstate_t *param_11,
+                       undefined8 param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                       undefined8 param_16)
+
+{
+  FUN_09bdf7d0(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+size_t mbrlen(char *__s,size_t __n,mbstate_t *__ps)
+
+{
+  size_t sVar1;
+  
+  sVar1 = mbrlen(__s,__n,__ps);
+  return sVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+size_t wcslen(wchar_t *__s)
+
+{
+  size_t sVar1;
+  
+  sVar1 = wcslen(__s);
+  return sVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+lconv * localeconv(void)
+
+{
+  lconv *plVar1;
+  
+  plVar1 = localeconv();
+  return plVar1;
+}
+
+
+
+void thunk_FUN_09bef080(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,ulong *param_9,char *param_10,mbstate_t *param_11)
+
+{
+  FUN_09bef080(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11);
+  return;
+}
+
+
+
+void thunk_FUN_09be14d8(ulong *param_1,undefined1 param_2 [16],undefined1 param_3 [16],
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,undefined8 param_9,long param_10,char param_11,
+                       long *param_12)
+
+{
+  FUN_09be14d8(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12);
+  return;
+}
+
+
+
+void thunk_FUN_09bede48(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,ulong *param_9,ulong param_10,ulong param_11,
+                       FILE *param_12,long param_13,long param_14,long *param_15,undefined8 param_16
+                       )
+
+{
+  FUN_09bede48(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+void thunk_FUN_09be1e68(ulong *param_1,undefined1 param_2 [16],undefined1 param_3 [16],
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,undefined8 param_9,undefined8 *param_10,char param_11,
+                       long *param_12,undefined8 param_13,undefined8 param_14,undefined8 param_15,
+                       long *param_16,undefined8 param_17)
+
+{
+  FUN_09be1e68(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16,param_17);
+  return;
+}
+
+
+
+void thunk_FUN_09be12a4(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,ulong *param_9,int param_10,undefined8 param_11,
+                       undefined8 param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                       undefined8 param_16)
+
+{
+  FUN_09be12a4(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+void thunk_FUN_09bda75c(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,undefined8 *param_9,int param_10,long param_11,
+                       undefined8 param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                       undefined8 param_16)
+
+{
+  FUN_09bda75c(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+void thunk_FUN_09be28d4(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,long param_9,long *param_10)
+
+{
+  FUN_09be28d4(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10);
+  return;
+}
+
+
+
+void thunk_FUN_09bdab9c(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,undefined8 *param_9,int param_10,long param_11,
+                       undefined8 param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                       undefined8 param_16)
+
+{
+  FUN_09bdab9c(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+void thunk_FUN_09be2b74(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,undefined8 *param_9,long *param_10)
+
+{
+  FUN_09be2b74(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10);
+  return;
+}
+
+
+
+ulong * thunk_FUN_09bebaa4(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                          undefined8 param_4,undefined8 param_5,undefined8 param_6,
+                          undefined8 param_7,undefined8 param_8,ulong *param_9,FILE *param_10,
+                          long *param_11,undefined8 param_12,undefined8 param_13,undefined8 param_14
+                          ,long *param_15,undefined8 param_16)
+
+{
+  ulong *puVar1;
+  
+  puVar1 = FUN_09bebaa4(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                        param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return puVar1;
+}
+
+
+
+byte * thunk_FUN_09becb14(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                         undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7
+                         ,undefined8 param_8,byte *param_9,ulong param_10,size_t param_11,
+                         undefined8 param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                         undefined8 param_16)
+
+{
+  byte *pbVar1;
+  
+  pbVar1 = FUN_09becb14(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                        param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return pbVar1;
+}
+
+
+
+ulong * thunk_FUN_09bedd28(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                          undefined8 param_4,undefined8 param_5,undefined8 param_6,
+                          undefined8 param_7,undefined8 param_8,ulong *param_9,FILE *param_10,
+                          long *param_11,ulong param_12,undefined8 param_13,undefined8 param_14,
+                          long *param_15,undefined8 param_16)
+
+{
+  ulong *puVar1;
+  
+  puVar1 = FUN_09bedd28(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                        param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return puVar1;
+}
+
+
+
+byte * thunk_FUN_09beed10(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                         undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7
+                         ,undefined8 param_8,byte *param_9,ulong param_10,size_t param_11,
+                         undefined8 param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                         undefined8 param_16)
+
+{
+  byte *pbVar1;
+  
+  pbVar1 = FUN_09beed10(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                        param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return pbVar1;
+}
+
+
+
+undefined8 thunk_FUN_09be4570(long param_1)
+
+{
+  undefined8 uVar1;
+  
+  uVar1 = FUN_09be4570(param_1);
+  return uVar1;
+}
+
+
+
+undefined8 thunk_FUN_09be49d0(long param_1)
+
+{
+  undefined8 uVar1;
+  
+  uVar1 = FUN_09be49d0(param_1);
+  return uVar1;
+}
+
+
+
+void thunk_FUN_09be5040(ulong *param_1,char **param_2,size_t param_3,mbstate_t *param_4,
+                       undefined8 param_5,undefined8 param_6,undefined8 param_7,undefined8 param_8)
+
+{
+  FUN_09be5040(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8);
+  return;
+}
+
+
+
+void __strlen_chk(void)
+
+{
+  __strlen_chk();
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+longlong strtoll_l(char *__nptr,char **__endptr,int __base,__locale_t __loc)
+
+{
+  longlong lVar1;
+  
+  lVar1 = strtoll_l(__nptr,__endptr,__base,__loc);
+  return lVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+ulonglong strtoull_l(char *__nptr,char **__endptr,int __base,__locale_t __loc)
+
+{
+  ulonglong uVar1;
+  
+  uVar1 = strtoull_l(__nptr,__endptr,__base,__loc);
+  return uVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+float strtof(char *__nptr,char **__endptr)
+
+{
+  float fVar1;
+  
+  fVar1 = strtof(__nptr,__endptr);
+  return fVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+double strtod(char *__nptr,char **__endptr)
+
+{
+  double dVar1;
+  
+  dVar1 = strtod(__nptr,__endptr);
+  return dVar1;
+}
+
+
+
+ulong * thunk_FUN_09bee5f8(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                          undefined8 param_4,undefined8 param_5,undefined8 param_6,
+                          undefined8 param_7,undefined8 param_8,ulong *param_9,undefined8 param_10,
+                          long *param_11)
+
+{
+  ulong *puVar1;
+  
+  puVar1 = FUN_09bee5f8(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                        param_10,param_11);
+  return puVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+double strtold_l(char *__nptr,char **__endptr,__locale_t __loc)
+
+{
+  double dVar1;
+  
+  dVar1 = strtold_l(__nptr,__endptr,__loc);
+  return dVar1;
+}
+
+
+
+void thunk_FUN_09bf429c(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,uint param_9,FILE *param_10,size_t param_11,
+                       undefined8 param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                       undefined8 param_16)
+
+{
+                    // WARNING: Subroutine does not return
+  FUN_09bf429c(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+}
+
+
+
+int thunk_FUN_09beac90(pthread_cond_t *param_1,pthread_mutex_t *param_2,timespec *param_3)
+
+{
+  int iVar1;
+  
+  iVar1 = FUN_09beac90(param_1,param_2,param_3);
+  return iVar1;
+}
+
+
+
+int thunk_FUN_09beacb0(pthread_mutex_t *param_1,pthread_mutexattr_t *param_2)
+
+{
+  int iVar1;
+  
+  iVar1 = FUN_09beacb0(param_1,param_2);
+  return iVar1;
+}
+
+
+
+void thunk_FUN_09beaae4(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,pthread_cond_t *param_9,undefined8 *param_10,
+                       size_t param_11,undefined8 param_12,undefined8 param_13,undefined8 param_14,
+                       long *param_15,undefined8 param_16)
+
+{
+  FUN_09beaae4(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+int thunk_FUN_09beaaa4(pthread_t param_1,pthread_t param_2)
+
+{
+  int iVar1;
+  
+  iVar1 = FUN_09beaaa4(param_1,param_2);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int pthread_mutex_trylock(pthread_mutex_t *__mutex)
+
+{
+  int iVar1;
+  
+  iVar1 = pthread_mutex_trylock(__mutex);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int pthread_equal(pthread_t __thread1,pthread_t __thread2)
+
+{
+  int iVar1;
+  
+  iVar1 = pthread_equal(__thread1,__thread2);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int pthread_cond_signal(pthread_cond_t *__cond)
+
+{
+  int iVar1;
+  
+  iVar1 = pthread_cond_signal(__cond);
+  return iVar1;
+}
+
+
+
+undefined8
+thunk_FUN_09bf458c(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                  undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                  undefined8 param_8,undefined8 param_9,undefined8 param_10,size_t param_11,
+                  undefined8 param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                  undefined8 param_16)
+
+{
+  undefined8 uVar1;
+  
+  uVar1 = FUN_09bf458c(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                       param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return uVar1;
+}
+
+
+
+void thunk_FUN_09bf491c(double param_1,undefined1 param_2 [16],undefined8 param_3,undefined8 param_4
+                       ,undefined8 param_5,undefined8 param_6,undefined8 param_7,undefined8 param_8,
+                       undefined8 *param_9,undefined8 param_10,size_t param_11,undefined8 param_12,
+                       undefined8 param_13,undefined8 param_14,long *param_15,undefined8 param_16)
+
+{
+  FUN_09bf491c(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+void thunk_FUN_09bf499c(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,long *param_9,undefined8 param_10,undefined8 param_11,
+                       FILE *param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                       undefined8 param_16)
+
+{
+  FUN_09bf499c(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int pthread_cond_timedwait(pthread_cond_t *__cond,pthread_mutex_t *__mutex,timespec *__abstime)
+
+{
+  int iVar1;
+  
+  iVar1 = pthread_cond_timedwait(__cond,__mutex,__abstime);
+  return iVar1;
+}
+
+
+
+void thunk_FUN_09c0d2b4(undefined8 *param_1)
+
+{
+  FUN_09c0d2b4(param_1);
+  return;
+}
+
+
+
+undefined8 thunk_FUN_09bf6788(void)
+
+{
+  undefined8 uVar1;
+  
+  uVar1 = FUN_09bf6788();
+  return uVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int pthread_cond_destroy(pthread_cond_t *__cond)
+
+{
+  int iVar1;
+  
+  iVar1 = pthread_cond_destroy(__cond);
+  return iVar1;
+}
+
+
+
+longlong thunk_FUN_09beae0c(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                           undefined8 param_4,undefined8 param_5,undefined8 param_6,
+                           undefined8 param_7,undefined8 param_8,size_t param_9,undefined8 param_10,
+                           undefined8 param_11,undefined8 param_12,undefined8 param_13,
+                           undefined8 param_14,long *param_15,undefined8 param_16)
+
+{
+  longlong lVar1;
+  
+  lVar1 = FUN_09beae0c(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                       param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return lVar1;
+}
+
+
+
+longlong thunk_FUN_09beae0c(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                           undefined8 param_4,undefined8 param_5,undefined8 param_6,
+                           undefined8 param_7,undefined8 param_8,size_t param_9,undefined8 param_10,
+                           undefined8 param_11,undefined8 param_12,undefined8 param_13,
+                           undefined8 param_14,long *param_15,undefined8 param_16)
+
+{
+  longlong lVar1;
+  
+  lVar1 = thunk_FUN_09beae0c(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9
+                             ,param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return lVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+size_t fread(void *__ptr,size_t __size,size_t __n,FILE *__stream)
+
+{
+  size_t sVar1;
+  
+  sVar1 = fread(__ptr,__size,__n,__stream);
+  return sVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+size_t fread(void *__ptr,size_t __size,size_t __n,FILE *__stream)
+
+{
+  size_t sVar1;
+  
+  sVar1 = fread(__ptr,__size,__n,__stream);
+  return sVar1;
+}
+
+
+
+void thunk_FUN_09beb548(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,ulong *param_9,ulong param_10,ulong param_11,
+                       FILE *param_12,long param_13,long param_14,long *param_15,undefined8 param_16
+                       )
+
+{
+  FUN_09beb548(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+ulong * thunk_FUN_09beb364(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                          undefined8 param_4,undefined8 param_5,undefined8 param_6,
+                          undefined8 param_7,undefined8 param_8,ulong *param_9,FILE *param_10,
+                          long *param_11,void *param_12,long *param_13,undefined8 param_14,
+                          long *param_15,undefined8 param_16)
+
+{
+  ulong *puVar1;
+  
+  puVar1 = FUN_09beb364(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                        param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return puVar1;
+}
+
+
+
+ulong * thunk_FUN_09bebde4(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                          undefined8 param_4,undefined8 param_5,undefined8 param_6,
+                          undefined8 param_7,undefined8 param_8,ulong *param_9,FILE *param_10,
+                          size_t param_11,long *param_12,undefined8 param_13,undefined8 param_14,
+                          long *param_15,undefined8 param_16)
+
+{
+  ulong *puVar1;
+  
+  puVar1 = FUN_09bebde4(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                        param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return puVar1;
+}
+
+
+
+void thunk_FUN_09bed768(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,ulong *param_9,ulong param_10,ulong param_11,
+                       FILE *param_12,long param_13,long param_14,long *param_15,undefined8 param_16
+                       )
+
+{
+  FUN_09bed768(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int posix_memalign(void **__memptr,size_t __alignment,size_t __size)
+
+{
+  int iVar1;
+  
+  iVar1 = posix_memalign(__memptr,__alignment,__size);
+  return iVar1;
+}
+
+
+
+ulong * thunk_FUN_09bed570(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                          undefined8 param_4,undefined8 param_5,undefined8 param_6,
+                          undefined8 param_7,undefined8 param_8,ulong *param_9,FILE *param_10,
+                          long *param_11,void **param_12,long *param_13,undefined8 param_14,
+                          long *param_15,undefined8 param_16)
+
+{
+  ulong *puVar1;
+  
+  puVar1 = FUN_09bed570(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                        param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return puVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+wchar_t * wmemmove(wchar_t *__s1,wchar_t *__s2,size_t __n)
+
+{
+  wchar_t *pwVar1;
+  
+  pwVar1 = wmemmove(__s1,__s2,__n);
+  return pwVar1;
+}
+
+
+
+ulong * thunk_FUN_09bee3a4(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                          undefined8 param_4,undefined8 param_5,undefined8 param_6,
+                          undefined8 param_7,undefined8 param_8,ulong *param_9,size_t param_10,
+                          long *param_11)
+
+{
+  ulong *puVar1;
+  
+  puVar1 = FUN_09bee3a4(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                        param_10,param_11);
+  return puVar1;
+}
+
+
+
+ulong * thunk_FUN_09bee094(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                          undefined8 param_4,undefined8 param_5,undefined8 param_6,
+                          undefined8 param_7,undefined8 param_8,ulong *param_9,FILE *param_10,
+                          size_t param_11,long *param_12,undefined8 param_13,undefined8 param_14,
+                          long *param_15,undefined8 param_16)
+
+{
+  ulong *puVar1;
+  
+  puVar1 = FUN_09bee094(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                        param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return puVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+wchar_t * wmemchr(wchar_t *__s,wchar_t __c,size_t __n)
+
+{
+  wchar_t *pwVar1;
+  
+  pwVar1 = wmemchr(__s,__c,__n);
+  return pwVar1;
+}
+
+
+
+ulong * thunk_FUN_09beeb10(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                          undefined8 param_4,undefined8 param_5,undefined8 param_6,
+                          undefined8 param_7,undefined8 param_8,ulong *param_9,ulong param_10,
+                          uint param_11)
+
+{
+  ulong *puVar1;
+  
+  puVar1 = FUN_09beeb10(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                        param_10,param_11);
+  return puVar1;
+}
+
+
+
+void thunk_FUN_09beaf60(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,undefined8 *param_9,undefined8 param_10,size_t param_11,
+                       undefined8 param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                       undefined8 param_16)
+
+{
+  FUN_09beaf60(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int wmemcmp(wchar_t *__s1,wchar_t *__s2,size_t __n)
+
+{
+  int iVar1;
+  
+  iVar1 = wmemcmp(__s1,__s2,__n);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+long wcstol(wchar_t *__nptr,wchar_t **__endptr,int __base)
+
+{
+  long lVar1;
+  
+  lVar1 = wcstol(__nptr,__endptr,__base);
+  return lVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+ulong wcstoul(wchar_t *__nptr,wchar_t **__endptr,int __base)
+
+{
+  ulong uVar1;
+  
+  uVar1 = wcstoul(__nptr,__endptr,__base);
+  return uVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+longlong strtoll(char *__nptr,char **__endptr,int __base)
+
+{
+  longlong lVar1;
+  
+  lVar1 = strtoll(__nptr,__endptr,__base);
+  return lVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+longlong wcstoll(wchar_t *__nptr,wchar_t **__endptr,int __base)
+
+{
+  longlong lVar1;
+  
+  lVar1 = wcstoll(__nptr,__endptr,__base);
+  return lVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+ulonglong strtoull(char *__nptr,char **__endptr,int __base)
+
+{
+  ulonglong uVar1;
+  
+  uVar1 = strtoull(__nptr,__endptr,__base);
+  return uVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+ulonglong wcstoull(wchar_t *__nptr,wchar_t **__endptr,int __base)
+
+{
+  ulonglong uVar1;
+  
+  uVar1 = wcstoull(__nptr,__endptr,__base);
+  return uVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+float wcstof(wchar_t *__nptr,wchar_t **__endptr)
+
+{
+  float fVar1;
+  
+  fVar1 = wcstof(__nptr,__endptr);
+  return fVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+double wcstod(wchar_t *__nptr,wchar_t **__endptr)
+
+{
+  double dVar1;
+  
+  dVar1 = wcstod(__nptr,__endptr);
+  return dVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+double strtold(char *__nptr,char **__endptr)
+
+{
+  double dVar1;
+  
+  dVar1 = strtold(__nptr,__endptr);
+  return dVar1;
+}
+
+
+
+char * thunk_FUN_09bf30a8(uint param_1,char *param_2)
+
+{
+  char *pcVar1;
+  
+  pcVar1 = FUN_09bf30a8(param_1,param_2);
+  return pcVar1;
+}
+
+
+
+char * thunk_FUN_09bf3340(ulong param_1,char *param_2)
+
+{
+  char *pcVar1;
+  
+  pcVar1 = FUN_09bf3340(param_1,param_2);
+  return pcVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+double wcstold(wchar_t *__nptr,wchar_t **__endptr)
+
+{
+  double dVar1;
+  
+  dVar1 = wcstold(__nptr,__endptr);
+  return dVar1;
+}
+
+
+
+void thunk_FUN_09bf3a50(ulong *param_1,undefined1 param_2 [16],undefined1 param_3 [16],
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,undefined8 param_9,int *param_10,ulong *param_11,
+                       undefined8 param_12,FILE *param_13)
+
+{
+  FUN_09bf3a50(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13);
+  return;
+}
+
+
+
+void thunk_FUN_09beb120(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,undefined8 *param_9,undefined8 param_10,size_t param_11,
+                       undefined8 param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                       undefined8 param_16)
+
+{
+  FUN_09beb120(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+void thunk_FUN_09c0d3e0(undefined8 *param_1,size_t param_2,size_t param_3,FILE *param_4)
+
+{
+  FUN_09c0d3e0(param_1,param_2,param_3,param_4);
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int swprintf(wchar_t *__s,size_t __n,wchar_t *__format,...)
+
+{
+  int iVar1;
+  
+  iVar1 = swprintf(__s,__n,__format);
+  return iVar1;
+}
+
+
+
+int thunk_FUN_09bea32c(pthread_mutex_t *param_1)
+
+{
+  int iVar1;
+  
+  iVar1 = FUN_09bea32c(param_1);
+  return iVar1;
+}
+
+
+
+int thunk_FUN_09beaac4(pthread_cond_t *param_1,pthread_mutex_t *param_2)
+
+{
+  int iVar1;
+  
+  iVar1 = FUN_09beaac4(param_1,param_2);
+  return iVar1;
+}
+
+
+
+int thunk_FUN_09bf50f4(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                      undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                      undefined8 param_8,long param_9,undefined8 param_10,size_t param_11,
+                      undefined8 param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                      undefined8 param_16)
+
+{
+  int iVar1;
+  
+  iVar1 = FUN_09bf50f4(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                       param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return iVar1;
+}
+
+
+
+void thunk_FUN_09bf3a34(undefined4 *param_1)
+
+{
+  FUN_09bf3a34(param_1);
+  return;
+}
+
+
+
+void thunk_FUN_09c0d314(undefined8 *param_1,size_t param_2,size_t param_3,FILE *param_4)
+
+{
+  FUN_09c0d314(param_1,param_2,param_3,param_4);
+  return;
+}
+
+
+
+void thunk_FUN_09bea2d8(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,pthread_mutex_t *param_9,undefined8 param_10,
+                       size_t param_11,undefined8 param_12,undefined8 param_13,undefined8 param_14,
+                       long *param_15,undefined8 param_16)
+
+{
+  FUN_09bea2d8(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+void thunk_FUN_09bf4c2c(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,undefined8 *param_9,undefined8 param_10,size_t param_11,
+                       FILE *param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                       undefined8 param_16)
+
+{
+  FUN_09bf4c2c(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+void thunk_FUN_09bf49a8(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,undefined8 *param_9,long param_10,undefined8 param_11,
+                       FILE *param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                       undefined8 param_16)
+
+{
+  FUN_09bf49a8(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+  return;
+}
+
+
+
+ulong thunk_FUN_09bf513c(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                        undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                        undefined8 param_8,long *param_9,undefined8 param_10,size_t param_11,
+                        FILE *param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                        undefined8 param_16)
+
+{
+  ulong uVar1;
+  
+  uVar1 = FUN_09bf513c(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                       param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return uVar1;
+}
+
+
+
+int thunk_FUN_09bf4f5c(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                      undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                      undefined8 param_8,long param_9,long *param_10,size_t param_11,FILE *param_12,
+                      undefined8 param_13,undefined8 param_14,long *param_15,undefined8 param_16)
+
+{
+  int iVar1;
+  
+  iVar1 = FUN_09bf4f5c(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                       param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return iVar1;
+}
+
+
+
+void thunk_FUN_09c0d314(undefined8 *param_1,size_t param_2,size_t param_3,FILE *param_4)
+
+{
+  thunk_FUN_09c0d314(param_1,param_2,param_3,param_4);
+  return;
+}
+
+
+
+void thunk_FUN_09beb084(undefined8 *param_1,long param_2)
+
+{
+  FUN_09beb084(param_1,param_2);
+  return;
+}
+
+
+
+int thunk_FUN_09bf4d1c(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                      undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                      undefined8 param_8,long param_9,undefined8 param_10,size_t param_11,
+                      FILE *param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                      undefined8 param_16)
+
+{
+  int iVar1;
+  
+  iVar1 = FUN_09bf4d1c(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                       param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return iVar1;
+}
+
+
+
+int thunk_FUN_09bf4e9c(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                      undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                      undefined8 param_8,long param_9,undefined8 param_10,size_t param_11,
+                      FILE *param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                      undefined8 param_16)
+
+{
+  int iVar1;
+  
+  iVar1 = FUN_09bf4e9c(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                       param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return iVar1;
+}
+
+
+
+int thunk_FUN_09bf5028(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                      undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                      undefined8 param_8,long param_9,long *param_10,size_t param_11,FILE *param_12,
+                      undefined8 param_13,undefined8 param_14,long *param_15,undefined8 param_16)
+
+{
+  int iVar1;
+  
+  iVar1 = FUN_09bf5028(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                       param_10,param_11,param_12,param_13,param_14,param_15,param_16);
+  return iVar1;
+}
+
+
+
+void thunk_FUN_09c0b2c4(undefined1 param_1 [16],undefined1 param_2 [16],undefined8 param_3,
+                       undefined8 param_4,undefined8 param_5,undefined8 param_6,undefined8 param_7,
+                       undefined8 param_8,ulong *param_9,undefined8 param_10,undefined8 *param_11,
+                       FILE *param_12,undefined8 param_13,undefined8 param_14,long *param_15,
+                       undefined8 param_16)
+
+{
+                    // WARNING: Subroutine does not return
+  FUN_09c0b2c4(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,param_10,
+               param_11,param_12,param_13,param_14,param_15,param_16);
+}
+
+
+
+void thunk_FUN_09bf6294(undefined1 param_1 [16],double param_2,undefined8 param_3,undefined8 param_4
+                       ,size_t param_5)
+
+{
+  FUN_09bf6294(param_1,param_2,param_3,param_4,param_5);
+  return;
+}
+
+
+
+undefined * thunk_FUN_09bf6680(void)
+
+{
+  undefined *puVar1;
+  
+  puVar1 = FUN_09bf6680();
+  return puVar1;
+}
+
+
+
+undefined * thunk_FUN_09bf6710(void)
+
+{
+  undefined *puVar1;
+  
+  puVar1 = FUN_09bf6710();
+  return puVar1;
+}
+
+
+
+void thunk_FUN_09bf62b8(undefined1 param_1 [16],double param_2,undefined8 param_3,undefined8 param_4
+                       ,size_t param_5)
+
+{
+  FUN_09bf62b8(param_1,param_2,param_3,param_4,param_5);
+  return;
+}
+
+
+
+ulong thunk_FUN_09c0d830(undefined1 param_1 [16],double param_2,long param_3,undefined8 param_4,
+                        size_t param_5)
+
+{
+  ulong uVar1;
+  
+  uVar1 = FUN_09c0d830(param_1,param_2,param_3,param_4,param_5);
+  return uVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int pthread_join(pthread_t __th,void **__thread_return)
+
+{
+  int iVar1;
+  
+  iVar1 = pthread_join(__th,__thread_return);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int vfprintf(FILE *__s,char *__format,__gnuc_va_list __arg)
+
+{
+  int iVar1;
+  
+  iVar1 = vfprintf(__s,__format,__arg);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int fputc(int __c,FILE *__stream)
+
+{
+  int iVar1;
+  
+  iVar1 = fputc(__c,__stream);
+  return iVar1;
+}
+
+
+
+void android_set_abort_message(void)
+
+{
+  android_set_abort_message();
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+void openlog(char *__ident,int __option,int __facility)
+
+{
+  openlog(__ident,__option,__facility);
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+void syslog(int __pri,char *__fmt,...)
+
+{
+  syslog(__pri,__fmt);
+  return;
+}
+
+
+
+char * thunk_FUN_09bf6938(float param_1,undefined1 param_2 [16],byte *param_3,char *param_4,
+                         lconv *param_5,FILE *param_6,undefined8 param_7,undefined8 param_8,
+                         undefined8 param_9,undefined8 param_10)
+
+{
+  char *pcVar1;
+  
+  pcVar1 = FUN_09bf6938(param_1,param_2,param_3,param_4,param_5,param_6,param_7,param_8,param_9,
+                        param_10);
+  return pcVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+void closelog(void)
+
+{
+  closelog();
+  return;
+}
+
+
+
+void switchD_09bf7128::caseD_49(void)
+
+{
+  FUN_09c0d27c();
+  return;
+}
+
+
+
+void thunk_FUN_09c0d768(void)
+
+{
+  FUN_09c0d768();
+  return;
+}
+
+
+
+long thunk_FUN_09c0c64c(undefined1 param_1 [16],float param_2,long *param_3,undefined8 param_4,
+                       long param_5,undefined8 param_6)
+
+{
+  long lVar1;
+  
+  lVar1 = FUN_09c0c64c(param_1,param_2,param_3,param_4,param_5,param_6);
+  return lVar1;
+}
+
+
+
+void __memmove_chk(void)
+
+{
+  __memmove_chk();
+  return;
+}
+
+
+
+void dl_iterate_phdr(void)
+
+{
+  dl_iterate_phdr();
+  return;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int pthread_rwlock_rdlock(pthread_rwlock_t *__rwlock)
+
+{
+  int iVar1;
+  
+  iVar1 = pthread_rwlock_rdlock(__rwlock);
+  return iVar1;
+}
+
+
+
+// WARNING: Unknown calling convention -- yet parameter storage is locked
+
+int pthread_rwlock_unlock(pthread_rwlock_t *__rwlock)
+
+{
+  int iVar1;
+  
+  iVar1 = pthread_rwlock_unlock(__rwlock);
+  return iVar1;
+}
+
+
+
+void switchD_09bfc044::caseD_31(void)
+
+{
+  code *pcVar1;
+  
+                    // WARNING: Does not return
+  pcVar1 = (code *)UndefinedInstructionException(0,0x9c1921c);
+  (*pcVar1)();
+}
+
+
+
+void switchD_09bfdfbc::caseD_41(void)
+
+{
+  code *pcVar1;
+  
+                    // WARNING: Does not return
+  pcVar1 = (code *)UndefinedInstructionException(0,0x9c1b194);
+  (*pcVar1)();
+}
+
+
+
+void switchD_09c04160::caseD_61(void)
+
+{
+  code *pcVar1;
+  
+                    // WARNING: Does not return
+  pcVar1 = (code *)UndefinedInstructionException(0,0x9c21334);
+  (*pcVar1)();
+}
+
+
+
+void switchD_09c1056c::caseD_3(void)
+
+{
+  code *pcVar1;
+  
+                    // WARNING: Does not return
+  pcVar1 = (code *)UndefinedInstructionException(0,0x9c2d664);
+  (*pcVar1)();
+}
+
+
+
+// WARNING: Removing unreachable block (ram,0x0a966604)
+
+undefined8 FUN_0a966560(void)
+
+{
+  undefined8 uVar1;
+  
+  if ((DAT_0a97024a & 1) == 0) {
+    if (((DAT_0a96b520[3] ^ DAT_0a96b520[7]) ^ 0xd |
+         ((DAT_0a96b520[2] ^ DAT_0a96b520[6]) ^ 0xc) << 8 |
+         ((DAT_0a96b520[1] ^ DAT_0a96b520[5]) ^ 0xb) << 0x10 |
+        ((*DAT_0a96b520 ^ DAT_0a96b520[4]) ^ 10) << 0x18) != 0xd0e26) {
+      CallSupervisor(0);
+      return 0;
+    }
+    DAT_0a97024a = 1;
+  }
+                    // WARNING: Could not recover jumptable at 0x0a9665ec. Too many branches
+                    // WARNING: Treating indirect jump as call
+  uVar1 = (**(code **)(PTR_g_acf_array_0a96b530 + 0x18))();
+  return uVar1;
+}
+
+
+
+// WARNING: Removing unreachable block (ram,0x0a9666d0)
+
+undefined8 FUN_0a96662c(void)
+
+{
+  undefined8 uVar1;
+  
+  if ((DAT_0a97024b & 1) == 0) {
+    if (((DAT_0a96b520[3] ^ DAT_0a96b520[7]) ^ 0xd |
+         ((DAT_0a96b520[2] ^ DAT_0a96b520[6]) ^ 0xc) << 8 |
+         ((DAT_0a96b520[1] ^ DAT_0a96b520[5]) ^ 0xb) << 0x10 |
+        ((*DAT_0a96b520 ^ DAT_0a96b520[4]) ^ 10) << 0x18) != 0xd0e26) {
+      CallSupervisor(0);
+      return 0;
+    }
+    DAT_0a97024b = 1;
+  }
+                    // WARNING: Could not recover jumptable at 0x0a9666b8. Too many branches
+                    // WARNING: Treating indirect jump as call
+  uVar1 = (**(code **)(PTR_g_acf_array_0a96b530 + 0x20))();
+  return uVar1;
+}
+
+
+
+void FUN_0a9666f8(undefined8 param_1)
+
+{
+  undefined *puVar1;
+  
+  puVar1 = PTR_g_acf_array_0a96b530;
+  if ((PTR_s__U_I_N_F_P_A_F__0a96b528[0x19c] & 1) != 0) {
+    (**(code **)(PTR_g_acf_array_0a96b530 + 0xc0))();
+  }
+  if ((DAT_0a97024c & 1) == 0) {
+    DAT_0a97024c = 1;
+    (**(code **)(puVar1 + 0xd0))(&DAT_0a966f70,0);
+  }
+                    // WARNING: Could not recover jumptable at 0x0a966760. Too many branches
+                    // WARNING: Treating indirect jump as call
+  (**(code **)(puVar1 + 0x30))(param_1);
+  return;
+}
+
+
+
+void FUN_0a967250(void)
+
+{
+  (*(code *)PTR___errno_0a96b570)();
+  return;
+}
+
+
